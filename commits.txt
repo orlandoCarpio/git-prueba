@@ -1,0 +1,17 @@
+commit 8e6954fe7c8d134ab4aa1b9807240b24b8c8f915
+Author: orlandoCarpio <orlando_carpio85@hotmail.com>
+Date:   Tue Sep 29 01:02:05 2020 -0300
+
+    se agrego index.js
+
+commit ee513c1a82be4b43d3e981907ed9151c5b5c0087
+Author: orlandoCarpio <orlando_carpio85@hotmail.com>
+Date:   Tue Sep 29 00:49:52 2020 -0300
+
+    gregado de texto
+
+commit 0c18bf00074774bb58fb5b7779a72bf7b433f4a9
+Author: orlandoCarpio <orlando_carpio85@hotmail.com>
+Date:   Tue Sep 29 00:43:39 2020 -0300
+
+    primer proyecto
